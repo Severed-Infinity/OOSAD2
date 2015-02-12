@@ -2,7 +2,7 @@ package Demo;
 
 public class Example {
 
-	private string name = noname;
+	private String name = "noname";
 	private long duration = 0;
 	private boolean initialized = false;
 
