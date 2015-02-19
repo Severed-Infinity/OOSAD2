@@ -9,9 +9,6 @@ public class Driver {
 
     public static void main(String[] args) {
         Teacher t = new Teacher("Mary", (short) 7, 67500.80f);
-        StringBuilder sb = new StringBuilder();
-        sb.append("Teachers Name : ").append(t.getName()).append("\nNumber of Years Working: ").append(t.getYearsWorking()).append("\nSalary: ").append(t.getSalary());
-
-        System.out.println(sb.toString());
+        System.out.println("Teachers Name : " + t.getName() + "\nNumber of Years Working: " + t.getYearsWorking() + "\nSalary: " + t.getSalary());
     }
 }
