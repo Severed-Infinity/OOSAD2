@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41de32b4-cfe7-43a5-af4a-db49dd58b713" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Driver.class" afterPath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Driver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VPProjects/Week3.vpp.working" afterPath="$PROJECT_DIR$/VPProjects/Week3.vpp.working" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OOSAD2.iml" afterPath="$PROJECT_DIR$/OOSAD2.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOSAD2.iws" />
@@ -552,12 +546,19 @@
       <workItem from="1423740730130" duration="3777000" />
       <workItem from="1423833052610" duration="172000" />
       <workItem from="1423925680092" duration="1302000" />
-      <workItem from="1424349428366" duration="149000" />
+      <workItem from="1424349428366" duration="243000" />
     </task>
+    <task id="LOCAL-00001" summary="adding gitignore file">
+      <created>1424349604056</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1424349604056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5400000" />
+    <option name="totallyTimeSpent" value="5494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="937" extended-state="0" />
@@ -606,6 +607,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="adding gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding gitignore file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
