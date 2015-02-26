@@ -1,6 +1,8 @@
 package Week3.Professions;
 
-public class Professional {
+import java.util.*;
+
+public abstract class Professional {
   private final String name;
   private short yearsWorking = 0;
   private float salary = 0.0f;
@@ -22,6 +24,8 @@ public class Professional {
   public float getSalary() {
     return this.salary;
   }
+
+  public abstract <Q extends Qualification> Collection addQualification(Collection<Q> c, Q q);
 
   @Override
   public String toString() {

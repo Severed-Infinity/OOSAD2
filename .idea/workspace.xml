@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41de32b4-cfe7-43a5-af4a-db49dd58b713" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/VPProjects/Week3.vpp.working" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Degree.class" afterPath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Degree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Module.class" afterPath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Module.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Qualification.class" afterPath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Qualification.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Rating.class" afterPath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Rating.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Specialisation.class" afterPath="$PROJECT_DIR$/out/production/OOSAD2/Week3/Professions/Specialisation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Degree.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Degree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VPProjects/week4.vpp.working" afterPath="$PROJECT_DIR$/VPProjects/week4.vpp.working" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Doctor.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Doctor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Driver.java" afterPath="$PROJECT_DIR$/week3/Week3/Driver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Module.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Module.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Pilot.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Pilot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Professional.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Professional.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Qualification.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Qualification.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Rating.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Rating.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Specialisation.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Specialisation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/findbugs-idea.xml" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week3/Week3/Professions/Teacher.java" afterPath="$PROJECT_DIR$/week3/Week3/Professions/Teacher.java" />
     </list>
     <ignored path="OOSAD2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,12 +36,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Driver.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Driver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week3/Week3/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40229884" vertical-offset="0" max-vertical-offset="522">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Doctor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Doctor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="method#Doctor#0;class#Doctor#0" expanded="true" />
+                <element signature="method#addQualification#0;class#Doctor#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pilot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Pilot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="method#Pilot#0;class#Pilot#0" expanded="true" />
+                <element signature="method#addQualification#0;class#Pilot#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,9 +88,29 @@
       <file leaf-file-name="Professional.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Professional.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="method#toString#0;class#Professional#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3678161" vertical-offset="18" max-vertical-offset="600">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+              <folding>
+                <element signature="method#addQualification#0;class#Teacher#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,7 +145,7 @@
       <file leaf-file-name="Module.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Module.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="495">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
               <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding>
                 <element signature="method#Module#0;class#Module#0" expanded="true" />
@@ -143,9 +180,6 @@
         <option value="$PROJECT_DIR$/week3/Week3/Pilot.java" />
         <option value="$PROJECT_DIR$/week3/Week3/Professional.java" />
         <option value="$PROJECT_DIR$/week3/Week3/Qualification.java" />
-        <option value="$PROJECT_DIR$/week3/Week3/Professions/Teacher.java" />
-        <option value="$PROJECT_DIR$/week3/Week3/Professions/Doctor.java" />
-        <option value="$PROJECT_DIR$/week3/Week3/Professions/Pilot.java" />
         <option value="$PROJECT_DIR$/week1/Demo/Example.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/week3/Week3/Professions/Qualification.java" />
@@ -153,8 +187,11 @@
         <option value="$PROJECT_DIR$/week3/Week3/Professions/Module.java" />
         <option value="$PROJECT_DIR$/week3/Week3/Professions/Rating.java" />
         <option value="$PROJECT_DIR$/week3/Week3/Professions/Specialisation.java" />
-        <option value="$PROJECT_DIR$/week3/Week3/Professions/Professional.java" />
         <option value="$PROJECT_DIR$/week3/Week3/Driver.java" />
+        <option value="$PROJECT_DIR$/week3/Week3/Professions/Professional.java" />
+        <option value="$PROJECT_DIR$/week3/Week3/Professions/Pilot.java" />
+        <option value="$PROJECT_DIR$/week3/Week3/Professions/Doctor.java" />
+        <option value="$PROJECT_DIR$/week3/Week3/Professions/Teacher.java" />
       </list>
     </option>
   </component>
@@ -269,6 +306,14 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -616,7 +661,7 @@
       <workItem from="1423925680092" duration="1302000" />
       <workItem from="1424349428366" duration="883000" />
       <workItem from="1424951598594" duration="832000" />
-      <workItem from="1424952522353" duration="434000" />
+      <workItem from="1424952522353" duration="2298000" />
     </task>
     <task id="LOCAL-00001" summary="adding gitignore file">
       <created>1424349604056</created>
@@ -628,7 +673,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7400000" />
+    <option name="totallyTimeSpent" value="9264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="937" extended-state="0" />
@@ -647,7 +692,7 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32844934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -712,7 +757,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="method#toString#0;class#Professional#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -833,27 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17857143" vertical-offset="0" max-vertical-offset="840">
-          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Doctor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14285715" vertical-offset="0" max-vertical-offset="840">
-          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Pilot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14285715" vertical-offset="0" max-vertical-offset="840">
-          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="18075">
@@ -944,17 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Module.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding>
-            <element signature="method#Module#0;class#Module#0" expanded="true" />
-            <element signature="method#toString#0;class#Module#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Rating.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
@@ -979,21 +994,160 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Module.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="method#Module#0;class#Module#0" expanded="true" />
+            <element signature="method#toString#0;class#Module#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Professional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="method#toString#0;class#Professional#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week3/Week3/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40229884" vertical-offset="0" max-vertical-offset="522">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Pilot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="method#Pilot#0;class#Pilot#0" expanded="true" />
+            <element signature="method#addQualification#0;class#Pilot#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Doctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="method#Doctor#0;class#Doctor#0" expanded="true" />
+            <element signature="method#addQualification#0;class#Doctor#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/Week3/Professions/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3678161" vertical-offset="18" max-vertical-offset="600">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="method#addQualification#0;class#Teacher#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OOSAD2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
