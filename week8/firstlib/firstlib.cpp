@@ -11,23 +11,47 @@
 
 void std::weatherForecast(int ndays){
     try {
-        if(1 < ndays && ndays < 3){
-            int weather = (1 + (rand()%5));
+        if(0 < ndays && ndays < 3){
+            int weather = (1 + (rand()%4));
+            int temp;
+            int rain;
+            int windspeed;
+            int direction;
             switch (weather) {
                 case 1:
-                    std::cout << "High in deg C" << std::endl;
+                    temp = (15 + (rand()% 35));
+                    std::cout << "High in deg C " << temp << std::endl;
                     break;
                 case 2:
-                    std::cout << "Low in deg C" << std::endl;
+                    temp = (-2 + (rand()% 14));
+                    std::cout << "Low in deg C " << temp << std::endl;
                     break;
                 case 3:
-                    std::cout << "Predicted Rainfall" << std::endl;
+                    rain = (1 + (rand()%7));
+                    std::cout << "Predicted Rainfall, " << rain << " inchs" << std::endl;
                     break;
                 case 4:
-                    std::cout << "Windspeed" << std::endl;
-                    break;
-                case 5:
-                    std::cout << "Wind-direction" << std::endl;
+                    windspeed = (1 + (rand()%80));
+                    direction = (1 + (rand()%4));
+                    std::cout << "Windspeed " << windspeed << " KPH"<< std::endl;
+                    std::cout << "Wind-direction ";
+                    switch (direction) {
+                        case 1:
+                            std::cout << " North" << std::endl;
+                            break;
+                        case 2:
+                            std::cout << " West" << std::endl;
+                            break;
+                        case 3:
+                            std::cout << " South" << std::endl;
+                            break;
+                        case 4:
+                            std::cout << " East" << std::endl;
+                            break;
+                        default:
+                            break;
+                    }
+                    
                     break;
                 default:
                     break;
