@@ -4,12 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41de32b4-cfe7-43a5-af4a-db49dd58b713" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week7/org.week7/Singleton.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VPProjects/Week2.vpp" afterPath="$PROJECT_DIR$/VPProjects/Week2.vpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VPProjects/Week7.vpp.working" afterPath="$PROJECT_DIR$/VPProjects/Week7.vpp.working" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="41de32b4-cfe7-43a5-af4a-db49dd58b713" name="Default" comment="" />
     <ignored path="OOSAD2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -79,10 +74,11 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week7/org/week7/facade/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13240857" vertical-offset="0" max-vertical-offset="793">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.1702396" vertical-offset="0" max-vertical-offset="793">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -627,7 +623,7 @@
       <workItem from="1424952522353" duration="2352000" />
       <workItem from="1426159106960" duration="122000" />
       <workItem from="1426159360328" duration="3273000" />
-      <workItem from="1426768260902" duration="759000" />
+      <workItem from="1426768260902" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="adding gitignore file">
       <created>1424349604056</created>
@@ -639,11 +635,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13472000" />
+    <option name="totallyTimeSpent" value="13532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="937" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1061,10 +1057,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week7/org/week7/facade/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13240857" vertical-offset="0" max-vertical-offset="793">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.1702396" vertical-offset="0" max-vertical-offset="793">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
           </folding>
         </state>
       </provider>
