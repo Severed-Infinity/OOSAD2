@@ -13,7 +13,7 @@
 #include <string>
 namespace std{
     void weatherForecast(int ndays);
-    void getMyLocation(std::string locaiton);
+    void getMyLocation(const std::string &locaiton);
     
 }
 

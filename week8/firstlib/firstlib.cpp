@@ -10,6 +10,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <ctime>
+#include <string>
 
 void std::weatherForecast(int ndays){
     srand(time(NULL));
@@ -62,5 +63,9 @@ void std::weatherForecast(int ndays){
     } catch (int ndays) {
         std::cout << ndays << " days is out of range" << std::endl;
     }
+    
+}
+
+void std::getMyLocation(const std::string &locaiton){
     
 }
