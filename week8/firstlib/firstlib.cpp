@@ -8,31 +8,30 @@
 
 #include "firstlib.h"
 #include <iostream>
+#include <stdlib.h>
+#include <ctime>
 
 void std::weatherForecast(int ndays){
+    srand(time(NULL));
     try {
-        if(0 < ndays && ndays < 3){
-            int weather = (1 + (rand()%4));
-            int temp;
-            int rain;
-            int windspeed;
-            int direction;
+        if(0 < ndays && ndays < 4){
+            int weather = ((rand()%4) + 1);
+            int temp  = (rand()%35 + 15);
+            int rain = (rand()%7 + 1);
+            int windspeed = (rand()%80 + 1);
+            int direction = (rand()%4 + 1);
             switch (weather) {
                 case 1:
-                    temp = (15 + (rand()% 35));
                     std::cout << "High in deg C " << temp << std::endl;
                     break;
                 case 2:
-                    temp = (-2 + (rand()% 14));
+                    temp = (rand()%14 -2);
                     std::cout << "Low in deg C " << temp << std::endl;
                     break;
                 case 3:
-                    rain = (1 + (rand()%7));
                     std::cout << "Predicted Rainfall, " << rain << " inchs" << std::endl;
                     break;
                 case 4:
-                    windspeed = (1 + (rand()%80));
-                    direction = (1 + (rand()%4));
                     std::cout << "Windspeed " << windspeed << " KPH"<< std::endl;
                     std::cout << "Wind-direction ";
                     switch (direction) {
@@ -51,7 +50,7 @@ void std::weatherForecast(int ndays){
                         default:
                             break;
                     }
-                    
+        
                     break;
                 default:
                     break;

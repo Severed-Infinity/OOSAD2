@@ -10,8 +10,11 @@
 #define __firstlib__firstlib__
 
 #include <stdio.h>
+#include <string>
 namespace std{
     void weatherForecast(int ndays);
+    void getMyLocation(std::string locaiton);
+    
 }
 
 #endif /* defined(__firstlib__firstlib__) */
