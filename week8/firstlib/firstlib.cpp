@@ -67,5 +67,5 @@ void std::weatherForecast(int ndays){
 }
 
 void std::getMyLocation(const std::string &locaiton){
-    
+    std::cout << "Location " << locaiton << std::endl;
 }
